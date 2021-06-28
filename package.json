@@ -1,0 +1,52 @@
+{
+  "name": "e-shop",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "start node backend/prod/app.js && cd frontend && start live-server",
+    "build": "rimraf build && tsc -p backend/tsconfig.json && webpack --config configs/webpack.config.frontend.js",
+    "lint": "npx eslint . --ext .ts",
+    "front": "npx webpack serve --config configs/webpack.config.frontend.js",
+    "copy": "ncp backend/dev/db.json dist/backend/db.json",
+    "backend": "tsc --p backend/tsconfig.json -w",
+    "backend:server": "nodemon dist/backend/app.js -e js",
+    "dev": "npm run copy && concurrently -k \"npm run backend\" \"npm run backend:server\" \"npm run front\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvetlanaTr/ExampleOfShoeShop.git"
+  },
+  "author": "Trupkina and Khyzhniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvetlanaTr/ExampleOfShoeShop/issues"
+  },
+  "homepage": "https://github.com/SvetlanaTr/ExampleOfShoeShop",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "lint": "0.7.0",
+    "vue": "2.6.14"
+  },
+  "devDependencies": {
+    "@mate-academy/eslint-config": "0.0.16",
+    "@types/cors": "2.8.10",
+    "@types/express": "4.17.11",
+    "@types/node": "14.14.41",
+    "@typescript-eslint/eslint-plugin": "4.22.1",
+    "@typescript-eslint/parser": "4.22.1",
+    "concurrently": "6.2.0",
+    "copy-webpack-plugin": "9.0.1",
+    "eslint": "7.2.0",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-node": "11.1.0",
+    "html-loader": "2.1.2",
+    "html-webpack-plugin": "5.3.1",
+    "ncp": "2.0.0",
+    "nodemon": "2.0.7",
+    "ts-loader": "9.2.3",
+    "typescript": "4.2.4",
+    "webpack": "5.39.1",
+    "webpack-cli": "4.7.2",
+    "webpack-dev-server": "3.11.2"
+  }
+}
