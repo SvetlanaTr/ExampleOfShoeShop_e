@@ -1,0 +1,165 @@
+{
+  "list": [
+    {
+      "name": "SLICER Light Coral",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1950,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Titanium White",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1780,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Black and White",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1990,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Night",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1680,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Bloody",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1999,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Marine",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1500,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Sneaky",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1499,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Orbit-8",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1888,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Drago",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1660,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER White wolf",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 2199,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Platinum",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 2000,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Gray Cloud",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1600,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Vampire Gray",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1999,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Black-X",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1800,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Slime",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1820,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Trippie",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1780,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER White arrow",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1990,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Wind",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 2220,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Tangerine",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1770,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Latte",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1999,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Pink sugar",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1700,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Fire",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1860,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    },
+    {
+      "name": "SLICER Grey Sand",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis dictum neque, at tincidunt eros convallis quis. Donec ultricies sapien in lobortis pretium. Sed suscipit ipsum dolor, at pellentesque metus auctor quis. Suspendisse rhoncus ultricies mi, nec pharetra turpis tincidunt et.",
+      "price": 1499,
+      "quantity": 10,
+      "url": "https://productmanagementfestival.com/wp-content/uploads/2017/01/sell-your-product-online.jpg"
+    }
+  ]
+}
