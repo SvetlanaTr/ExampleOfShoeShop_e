@@ -95,5 +95,4 @@ document.body.onload = () => {
 };
 
 const controller = new Controller();
-
 export { controller };
